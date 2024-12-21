@@ -1,4 +1,4 @@
-# Weather-Forcast-Analysis
+# Weather-Forecast-Analysis
 
 Conducted an in-depth analysis of weather data using Pandas and Power BI to extract insights on weather patterns and key metrics such as temperature, wind speed, and visibility.
 
